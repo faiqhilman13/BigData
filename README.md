@@ -1,0 +1,1 @@
+The work was done using Google Cloud and the dataset was shared among the module participants, the python notebook only demonstrates how everything was done, but it is not possible to recreate it in a Jupyter environment, it has to be done on Google Colab 
